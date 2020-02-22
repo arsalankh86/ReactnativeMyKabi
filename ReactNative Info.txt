@@ -1,0 +1,10 @@
+Setup React Native Envoirment
+Handline React Native View
+Implement React Native staes and props
+Implement React Native Image
+Handline ScrollView and ListView
+
+Also run
+
+npm install -g expo-cli
+expo start
